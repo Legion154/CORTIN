@@ -508,6 +508,10 @@ header .text .fa-bars {
     .shtor-cont .img-f-response .title-res span {
         font-size: 14px;
     }
+
+    .shtor-cont .ecllipse {
+        left: -450px;
+    }
 }
 
 /* CSS - MAIN 2 - LEVEL */
